@@ -9,3 +9,8 @@
 
 ## Project에 필요한 파일목록
 ![image](https://user-images.githubusercontent.com/60678531/150052082-88820e82-009a-4ae4-b53d-13ab697dc5e7.png)
+1. Docker Image를 만들기 위한 Dockerfile
+2. Jenkin에서 인식할 수 있는 Jenkinsfile
+3. Dockerfile를 컨테이너로 만들어주는 Docker-compose.yml
+4. main.py code가 있는 파이썬 파일
+5. requirements.txt main.py에서 사용되는 라이브러리 
