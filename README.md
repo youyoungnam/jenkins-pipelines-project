@@ -1,2 +1,2 @@
 # jenkins-pipelines-project
-![d](https://user-images.githubusercontent.com/60678531/150050651-2b55ce76-22ff-4ecc-b0cf-ed13308f9a51.png)
+![d](https://user-images.githubusercontent.com/60678531/150051193-cbfe89a0-b1f6-4d8f-aaec-d8d8bfd302f5.png)
