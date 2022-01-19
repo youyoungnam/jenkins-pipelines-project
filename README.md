@@ -28,3 +28,11 @@
 ![image](https://user-images.githubusercontent.com/60678531/150054994-9d97e790-8614-4efe-b8cc-b36cc381180e.png)
 
 ![image](https://user-images.githubusercontent.com/60678531/150055028-6a247699-b877-49aa-9bb5-0a75e6f17bbe.png)
+
+## docker ps check
+![image](https://user-images.githubusercontent.com/60678531/150055600-c271681b-c449-41f8-8d5b-5f9d4e2e9bbe.png)
+
+## buid deploy check
+![image](https://user-images.githubusercontent.com/60678531/150055721-8095642e-b917-4e9c-9f2e-82eac401e142.png)
+-----------------------------------------------------
+#### code 변경후 자동으로 배포된걸 확인 할 수 있다. 
