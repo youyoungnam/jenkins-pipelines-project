@@ -10,7 +10,8 @@ def read_root():
         "age": 27,
         "height": "11111",
         "weight": "111111",
-        "address": "somewhere in the world"
+        "hobby": "I like to watch premier league football",
+        ""
     }
 
 
