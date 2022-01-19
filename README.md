@@ -6,4 +6,6 @@
 2. Jenkins에서 Dockerfile를 읽어서 Dokcer Image를 만든다.
 3. Docker Container로 배포를 하게된다.
 4. 배포가 완료되면 Docker hub를 Image를 push하여 저장한다. 
-5. 
+
+## Project에 필요한 파일목록
+![image](https://user-images.githubusercontent.com/60678531/150052082-88820e82-009a-4ae4-b53d-13ab697dc5e7.png)
