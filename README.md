@@ -14,3 +14,17 @@
 3. Dockerfile를 컨테이너로 만들어주는 Docker-compose.yml
 4. main.py code가 있는 파이썬 파일
 5. requirements.txt main.py에서 사용되는 라이브러리 
+
+## Jenkins
+![image](https://user-images.githubusercontent.com/60678531/150054299-1e4226c4-71e8-4bae-90b5-0bfaa4b69b15.png)
+
+
+# 과정 시각화
+## commit 
+![image](https://user-images.githubusercontent.com/60678531/150054816-6cc0a577-e9d7-466f-84ca-bb66f9089d7a.png)
+## docker container check
+![image](https://user-images.githubusercontent.com/60678531/150054899-2a06c49a-9af2-4e7d-a53d-ecf6c3429bd2.png)
+## Jenkins 
+![image](https://user-images.githubusercontent.com/60678531/150054994-9d97e790-8614-4efe-b8cc-b36cc381180e.png)
+
+![image](https://user-images.githubusercontent.com/60678531/150055028-6a247699-b877-49aa-9bb5-0a75e6f17bbe.png)
