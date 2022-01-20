@@ -36,3 +36,8 @@
 ![image](https://user-images.githubusercontent.com/60678531/150055721-8095642e-b917-4e9c-9f2e-82eac401e142.png)
 -----------------------------------------------------
 #### code 변경후 자동으로 배포된걸 확인 할 수 있다. 
+
+
+# 추가기능 
+## Jenkins에서 main.py파일이 변경시에만 docker hub에 푸시
+
