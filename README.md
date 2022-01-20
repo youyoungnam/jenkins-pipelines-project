@@ -40,4 +40,4 @@
 
 # 추가기능 
 ## Jenkins에서 main.py파일이 변경시에만 docker hub에 푸시
-
+  - 매번 jenkins pipeline이 동작할 때마다 docker hub에 올리는건 비효율적 기능이 업데이트 될 경우 docker hub에 업데이트
